@@ -19,11 +19,11 @@
     <img height="175" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Don1k1337&theme=modern-lilac" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/Don1k1337/github-readme-stats" title="Go to Source">
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=Don1k1337&show_icons=true&theme=merko">
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Don1k1337/github-readme-stats">
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don1k1337&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
   
